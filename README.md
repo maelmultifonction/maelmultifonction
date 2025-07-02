@@ -15,6 +15,7 @@
   <img src="https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/-NodeJS-green?logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/-Lua-green?logo=lua&logoColor=white">
   <img src="https://img.shields.io/badge/-SQL-blue?logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/-Linux-black?logo=linux&logoColor=white">
 </p>
